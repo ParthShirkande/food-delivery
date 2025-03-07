@@ -1,2 +1,2 @@
 Live preview
-- [website link](https://js-translator-h8oa.vercel.app/)
+- [website link](https://mernapp-food-delivery.vercel.app/)
